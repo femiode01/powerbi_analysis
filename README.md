@@ -1,4 +1,4 @@
-#Analysis of a Bike Store
+Analysis of a Bike Store
 
 1. Connected PowerBI Desktop to SQL Database 
 
